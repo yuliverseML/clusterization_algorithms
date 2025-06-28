@@ -2,6 +2,8 @@
 
 A comprehensive customer segmentation solution using advanced clustering techniques to identify distinct customer groups based on shopping behavior and demographics. This project analyzes the Mall Customer Segmentation Data to help retailers develop targeted marketing strategies.
 
+The dataset used is the [**Mall Customer Segmentation Data**](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)  from Kaggle.
+
 
 ## Models Implemented
 
